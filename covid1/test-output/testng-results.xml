@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-06T22:44:25 IST" name="Default suite" finished-at="2024-02-06T22:44:37 IST" duration-ms="11459">
+    <groups>
+    </groups>
+    <test started-at="2024-02-06T22:44:25 IST" name="Default test" finished-at="2024-02-06T22:44:37 IST" duration-ms="11459">
+      <class name="covidTest.CovidcaseTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:covidTest.CovidcaseTest@31e5415e]" started-at="2024-02-06T22:44:25 IST" name="beforeMethod" finished-at="2024-02-06T22:44:34 IST" duration-ms="9061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifydropdown()[pri:0, instance:covidTest.CovidcaseTest@31e5415e]" started-at="2024-02-06T22:44:34 IST" name="verifydropdown" finished-at="2024-02-06T22:44:37 IST" duration-ms="2257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifydropdown -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:covidTest.CovidcaseTest@31e5415e]" started-at="2024-02-06T22:44:37 IST" name="afterMethod" finished-at="2024-02-06T22:44:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- covidTest.CovidcaseTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
